@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BatuniLikhawat</string>
+    <string name="sign_up_with_phone">Sign Up With Phone</string>
+    <string name="facebook">FACEBOOK</string>
+    <string name="google">GOOGLE</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up_here">Sign Up Here</string>
+    <string name="abc_gmail_com">abc@gmail.com</string>
+    <string name="password">Password</string>
+</resources>
